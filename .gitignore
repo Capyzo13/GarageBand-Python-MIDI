@@ -11,3 +11,16 @@ __pycache__/
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Video files
+*.MOV
+*.mov
+*.mp4
+*.avi
+*.mkv
+*.webm
+*.flv
+*.wmv
+*.m4v
+*.mpg
+*.mpeg
